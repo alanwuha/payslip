@@ -3,12 +3,11 @@
 
 ## Tech Stsck
 
+1. ReactJS
+1. Django
+1. PostgreSQL
 1. AWS
-1. DynamoDb
-1. S3 Bucket 
-1. Python
-1. Flutter
-1. Nginx
+1. Terraform
 
 ## Features
 
