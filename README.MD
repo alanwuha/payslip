@@ -170,7 +170,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/alanwuha/paysli/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/alanwuha/payslip/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -206,9 +206,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@alanwuha](https://twitter.com/alanwuha) - alantanlc@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/alanwuha/payslip](https://github.com/alanwuha/payslip)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -234,16 +234,13 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/alanwuha/paysli.svg?style=for-the-badge
-[contributors-url]: https://github.com/alanwuha/paysli/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/alanwuha/paysli.svg?style=for-the-badge
-[forks-url]: https://github.com/alanwuha/paysli/network/members
-[stars-shield]: https://img.shields.io/github/stars/alanwuha/paysli.svg?style=for-the-badge
-[stars-url]: https://github.com/alanwuha/paysli/stargazers
-[issues-shield]: https://img.shields.io/github/issues/alanwuha/paysli.svg?style=for-the-badge
-[issues-url]: https://github.com/alanwuha/paysli/issues
-[license-shield]: https://img.shields.io/github/license/alanwuha/paysli.svg?style=for-the-badge
-[license-url]: https://github.com/alanwuha/paysli/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[contributors-shield]: https://img.shields.io/github/contributors/alanwuha/payslip.svg?style=for-the-badge
+[contributors-url]: https://github.com/alanwuha/payslip/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/alanwuha/payslip.svg?style=for-the-badge
+[forks-url]: https://github.com/alanwuha/payslip/network/members
+[stars-shield]: https://img.shields.io/github/stars/alanwuha/payslip.svg?style=for-the-badge
+[stars-url]: https://github.com/alanwuha/payslip/stargazers
+[issues-shield]: https://img.shields.io/github/issues/alanwuha/payslip.svg?style=for-the-badge
+[issues-url]: https://github.com/alanwuha/payslip/issues
+[license-shield]: https://img.shields.io/github/license/alanwuha/payslip.svg?style=for-the-badge
+[license-url]: https://github.com/alanwuha/payslip/blob/master/LICENSE.txt
