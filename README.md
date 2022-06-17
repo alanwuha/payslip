@@ -244,3 +244,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-url]: https://github.com/alanwuha/payslip/issues
 [license-shield]: https://img.shields.io/github/license/alanwuha/payslip.svg?style=for-the-badge
 [license-url]: https://github.com/alanwuha/payslip/blob/master/LICENSE.txt
+[product-screenshot]: images/screenshot.png
