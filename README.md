@@ -22,30 +22,29 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/alanwuha/payslip">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Payslip</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Anonymized payslips because seeing is believing.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alanwuha/payslip"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/alanwuha/payslip">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/alanwuha/payslip/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/alanwuha/payslip/issues">Request Feature</a>
   </p>
 </div>
 
@@ -103,14 +102,11 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Django](https://www.djangoproject.com/)
+* [PostgreSQL](https://postgresql.org/)
+* [Amazon Web Services](https://aws.amazon.com/)
+* [Terraform](https://www.terraform.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -174,7 +170,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/alanwuha/payslip/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -210,9 +206,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@alanwuha](https://twitter.com/alanwuha) - alantanlc@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/alanwuha/payslip](https://github.com/alanwuha/payslip)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -238,16 +234,13 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[contributors-shield]: https://img.shields.io/github/contributors/alanwuha/payslip.svg?style=for-the-badge
+[contributors-url]: https://github.com/alanwuha/payslip/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/alanwuha/payslip.svg?style=for-the-badge
+[forks-url]: https://github.com/alanwuha/payslip/network/members
+[stars-shield]: https://img.shields.io/github/stars/alanwuha/payslip.svg?style=for-the-badge
+[stars-url]: https://github.com/alanwuha/payslip/stargazers
+[issues-shield]: https://img.shields.io/github/issues/alanwuha/payslip.svg?style=for-the-badge
+[issues-url]: https://github.com/alanwuha/payslip/issues
+[license-shield]: https://img.shields.io/github/license/alanwuha/payslip.svg?style=for-the-badge
+[license-url]: https://github.com/alanwuha/payslip/blob/master/LICENSE.txt
